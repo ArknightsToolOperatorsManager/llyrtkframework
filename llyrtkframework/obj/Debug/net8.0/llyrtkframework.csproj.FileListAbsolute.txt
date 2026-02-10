@@ -1,0 +1,13 @@
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\bin\Debug\net8.0\llyrtkframework.deps.json
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\bin\Debug\net8.0\llyrtkframework.dll
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\bin\Debug\net8.0\llyrtkframework.pdb
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\obj\Debug\net8.0\llyrtkframework.csproj.AssemblyReference.cache
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\obj\Debug\net8.0\llyrtkframework.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\obj\Debug\net8.0\llyrtkframework.AssemblyInfoInputs.cache
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\obj\Debug\net8.0\llyrtkframework.AssemblyInfo.cs
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\obj\Debug\net8.0\llyrtkframework.csproj.CoreCompileInputs.cache
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\obj\Debug\net8.0\llyrtkframework.dll
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\obj\Debug\net8.0\refint\llyrtkframework.dll
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\obj\Debug\net8.0\llyrtkframework.pdb
+c:\Users\owner\source\repos\llyrtkframework\llyrtkframework\obj\Debug\net8.0\ref\llyrtkframework.dll
