@@ -5,7 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <!-- Windows専用APIを使用しているため、プラットフォーム固有API警告を抑制 -->
-    <NoWarn>$(NoWarn);CA1416</NoWarn>
+    <!-- Single-file publishing警告も抑制 -->
+    <NoWarn>$(NoWarn);CA1416;IL3000</NoWarn>
   </PropertyGroup>
 
   <ItemGroup>
